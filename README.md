@@ -19,7 +19,7 @@ A simple program to monitor daily water consumption and check hydration status.
 
 ---
 
-### 📥📤 Input & Output
+###  Input & Output
 
 **Input:**  
 Enter water consumed today (in liters): 1.8  
@@ -42,7 +42,7 @@ Calculates total grocery bill including discount and tax.
 
 ---
 
-### 📥📤 Input & Output
+###  Input & Output
 
 **Input:**  
 Enter number of items: 3  
@@ -69,7 +69,7 @@ Analyzes crop prices over multiple days and suggests decisions.
 
 ---
 
-### 📥📤 Input & Output
+###  Input & Output
 
 **Input:**  
 Enter number of days: 4  
